@@ -30,9 +30,9 @@
 
 ## 📊 My Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreenivasan&show_icons=true&theme=radical&locale=en" alt="sreenivasan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sreenivasan13&show_icons=true&theme=radical&locale=en" alt="Sreenivasan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenivasan&show_icons=true&theme=radical&locale=en&layout=compact" alt="sreenivasan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenivasan13&show_icons=true&theme=radical&locale=en&layout=compact" alt="Sreenivasan" /></p>
 
 <!---
 Sreenivasan13/Sreenivasan13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
