@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me... Little...!
 
 - 🌱 I’m currently learning **MERN Stack**....
-- 👀 I’m interested in Web Development...
+- 👀 I’m interested in **Web Development**...
 - 💞️ I’m looking to collaborate on Developers with on **Open Source Projects**...
 - 🤝 I’m Working on related with this Stuff**HTML,CSS,Javascript,React,Node.js,MongoDB**
 - 📫 How to reach me **sreesreeni09@gmail.com**
@@ -19,10 +19,10 @@
 ## 🖐 Connect with me:
 
 <p align="left">
-<a href="https://codepen.io/gandhirap_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gandhiraj_p" height="30" width="40" /></a>
-<a href="https://dev.to/gandhiraj_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gandhiraj_p" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hariharan-nks-b36b571a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariharan-nks-b36b571a2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hariharan _nks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hariharan _nks" height="30" width="40" /></a>
+<a href="https://codepen.io/sreenivasan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sreenivasan" height="30" width="40" /></a>
+<a href="https://dev.to/sreenivasan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sreenivasan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sreenivasan-a-829314134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreenivasan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13076205/sreenivasan-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sreenivasan" height="30" width="40" /></a>
 </p></br>
 
 ## 🚀 Languages and Tools:
